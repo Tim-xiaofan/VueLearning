@@ -32,3 +32,4 @@ coverage
 #
 package-lock.json
 .vscode
+pnpm-lock.yaml
